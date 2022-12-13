@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project is to analyze bike share data from New York, and use this information to present a praposal to start a bike share businees in Des Moines, Iowa.
+The purpose of this project is to analyze bike share data from New York, and use this information to present a proposal to start a bike share businees in Des Moines, Iowa.
 
 ## Results
 
